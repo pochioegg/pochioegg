@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi new noobs egg here 👋
 
 <!--
 **pochioegg/pochioegg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
